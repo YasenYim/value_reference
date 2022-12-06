@@ -1,0 +1,13 @@
+E:\Unity\NikoLua\Hello\value_reference\bin\Debug\netcoreapp3.1\value_reference.exe
+E:\Unity\NikoLua\Hello\value_reference\bin\Debug\netcoreapp3.1\value_reference.deps.json
+E:\Unity\NikoLua\Hello\value_reference\bin\Debug\netcoreapp3.1\value_reference.runtimeconfig.json
+E:\Unity\NikoLua\Hello\value_reference\bin\Debug\netcoreapp3.1\value_reference.runtimeconfig.dev.json
+E:\Unity\NikoLua\Hello\value_reference\bin\Debug\netcoreapp3.1\value_reference.dll
+E:\Unity\NikoLua\Hello\value_reference\bin\Debug\netcoreapp3.1\value_reference.pdb
+E:\Unity\NikoLua\Hello\value_reference\obj\Debug\netcoreapp3.1\value_reference.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\NikoLua\Hello\value_reference\obj\Debug\netcoreapp3.1\value_reference.AssemblyInfoInputs.cache
+E:\Unity\NikoLua\Hello\value_reference\obj\Debug\netcoreapp3.1\value_reference.AssemblyInfo.cs
+E:\Unity\NikoLua\Hello\value_reference\obj\Debug\netcoreapp3.1\value_reference.csproj.CoreCompileInputs.cache
+E:\Unity\NikoLua\Hello\value_reference\obj\Debug\netcoreapp3.1\value_reference.dll
+E:\Unity\NikoLua\Hello\value_reference\obj\Debug\netcoreapp3.1\value_reference.pdb
+E:\Unity\NikoLua\Hello\value_reference\obj\Debug\netcoreapp3.1\value_reference.genruntimeconfig.cache
